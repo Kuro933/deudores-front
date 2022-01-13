@@ -1,0 +1,12 @@
+.siguiente{
+cursor: not-allowed;
+}
+
+.container{
+ text-align: center;
+ padding: 5%;
+}
+
+.fileUpload{
+    margin: 3%;
+}
