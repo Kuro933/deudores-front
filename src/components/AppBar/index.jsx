@@ -28,7 +28,7 @@ export default function ButtonAppBar() {
                         <Link to="/apps/deudores/carga">
                             <Button style={{color: "white"}}>Cargar csv</Button>
                         </Link>
-                        <Link to="/apps/deudores/Descarga">
+                        <Link to="/apps/deudores/descarga">
                             <Button style={{color: "white"}}>Descargar</Button>
                         </Link>
                     </Typography>
